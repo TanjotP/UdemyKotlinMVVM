@@ -14,7 +14,7 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_baseline_notes_24px" />
+                            <entry key="outputName" value="ic_notes" />
                             <entry key="sourceFile" value="D:\UdemyKotlinMVVM\app\src\main\res\drawable\baseline-notes-24px.svg" />
                           </map>
                         </option>
